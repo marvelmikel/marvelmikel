@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marvelmikel
-- 👀 I’m interested in Creating Dapp on the Blockchain with Solidity for smart contract, Next.js for frontend development, Moralis for user authentication, sanity to store transaction data. 
+- 👀 I’m interested in Creating Dapp on the Blockchain with Solidity for smart contract, Next.js for frontend development, Moralis for user authentication, sanity to store transaction data also i Build centralised base api with Nest.js or Laravel then Dockerlised the api then document it with swagger api documentation and Use Build mobile application with Flutter.
 - 🌱 I’m currently learning Docker and Nest.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me marvelmikel1997@gmail.com
