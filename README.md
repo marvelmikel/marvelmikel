@@ -69,8 +69,8 @@ I am a dedicated outside-of-the-box thinker that thrives in creative and innovat
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" height="30px" width="30px"> Stats
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=airondev&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=airondev&theme=react-dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marvelmikel&theme=algolia&background=0d1117&hide_border=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=marvelmikel&theme=react-dark"/>
 </div>
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="80px" width="80px"> For More Information, Please Check Out or Connect Me Via
@@ -80,10 +80,10 @@ I am a dedicated outside-of-the-box thinker that thrives in creative and innovat
   </a> &nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/ejeh-micheal-marvelous-6735711b6" target="_blank">
-    <img align="center" alt="Aaron Aniebiet | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+    <img align="center" alt="Ejeh Micheal Marvelous | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/airondev" target="_blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/marvelmikel" target="_blank">
     <img align="center" alt="Samurai1979 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 <p> 
