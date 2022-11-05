@@ -24,12 +24,12 @@ I am a dedicated outside-of-the-box thinker that thrives in creative and innovat
 
 #### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30px" width="30px"> Languages /Frameworks
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Solidity](https://img.shields.io/badge/sol-%2300ADD8.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Solidity](https://img.shields.io/badge/solidity-%2300ADD8.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-%2300ADD8.svg?style=for-the-badge&logo=ether&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NextJs](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=nextdotjs&logoColor=%234FC08D)
+![NextJs](https://img.shields.io/badge/nextjs-%2335495e.svg?style=for-the-badge&logo=nextdotjs&logoColor=%234FC08D)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flutter.dart](https://img.shields.io/badge/flutter-%2300ADD8.svg?style=for-the-badge&logo=flutter.dart&logoColor=white)
 
