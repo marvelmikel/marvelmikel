@@ -61,7 +61,7 @@ I am a dedicated outside-of-the-box thinker that thrives in creative and innovat
 ![Sanity](https://img.shields.io/badge/Sanity-0f0f0f?&style=for-the-badge&logo=sanity&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CRANQ](https://www.cranq.co.uk/wp-content/uploads/2021/05/orange-logo.png)
+![CRANQ](style="height:200px" https://www.cranq.co.uk/wp-content/uploads/2021/05/orange-logo.png)
 
 
 
