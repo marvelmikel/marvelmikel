@@ -14,7 +14,7 @@ I am a dedicated outside-of-the-box thinker that thrives in creative and innovat
 
 ### Technical Skills
 * Programming Languages: Solidity, JAVA PHP, JavaScript, Dart.
-* Backend Development: Laravel, Node.js (NestJS | ExpressJS).
+* Backend Development: SpringBoot Laravel, Node.js (NestJS | ExpressJS).
 * Mobile App Development: Flutter(dart) and Reactnative.
 * Data Storage & Processing: MongoDB, MySQL, PostgreSQL, Elasticsearch, Redis, RabbitMQ.
 * Cloud Infrastructure: AWS, Digital Ocean, Docker, GCP
