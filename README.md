@@ -26,6 +26,7 @@ I am a dedicated outside-of-the-box thinker that thrives in creative and innovat
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Springboot](https://img.shields.io/badge/springboot-%299814.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-%2300ADD8.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-%2300ADD8.svg?style=for-the-badge&logo=web3&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-%2300ADD8.svg?style=for-the-badge&logo=ether&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
