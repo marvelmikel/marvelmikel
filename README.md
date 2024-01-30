@@ -23,7 +23,8 @@ I am a dedicated outside-of-the-box thinker that thrives in creative and innovat
 
 
 #### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height="30px" width="30px"> Languages /Frameworks
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/springboot-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Springboot](https://img.shields.io/badge/springboot-%23777BB4.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Solidity](https://img.shields.io/badge/solidity-%2300ADD8.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-%2300ADD8.svg?style=for-the-badge&logo=ether&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
