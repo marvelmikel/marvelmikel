@@ -13,7 +13,7 @@ My approach to building software is largely user-centric, hence the technical de
 I am a dedicated outside-of-the-box thinker that thrives in creative and innovative environments accompanied with strong communication and organizational skills and can interact at all levels. I am a growing leader and a natural team player that is always eager to learn.
 
 ### Technical Skills
-* Programming Languages: Solidity, JAVA PHP, Node.js, Dart.
+* Programming Languages: Solidity, JAVA PHP, Node, Dart.
 * Backend Development: SpringBoot, Laravel, NestJS.
 * Mobile App Development: Flutter & ReactNative.
 * Data Storage & Processing: MongoDB, MySQL, PostgreSQL, Elasticsearch, Redis, RabbitMQ.
