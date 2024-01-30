@@ -8,7 +8,7 @@
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/airondev)
 
 ### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px" width="20px"></img> About Me
-I am an innovative Software Engineer with a passion for building software products that are profitable as well as impactful to the intended users, I have over 5 years of  professional experience in backend development, building and improving products for clients.
+I am an innovative Software Engineer with a passion for building software products that are profitable as well as impactful to the intended users, I have over 10 years of  professional experience in backend development, building and improving products for clients.
 My approach to building software is largely user-centric, hence the technical decisions I make during the development process are optimized to present the best possible experience to the users.
 I am a dedicated outside-of-the-box thinker that thrives in creative and innovative environments accompanied with strong communication and organizational skills and can interact at all levels. I am a growing leader and a natural team player that is always eager to learn.
 
