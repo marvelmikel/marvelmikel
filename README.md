@@ -8,7 +8,7 @@
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/airondev)
 
 ### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px" width="20px"></img> About Me
-I am an innovative software engineer, founder, and a digital entrepreneur with 6 years of experience and a passion for building impactful software products that solve academic and logistic problems in the community. I have successfully built two products. As the co-founder and VP of Engineering at Trafull and the founder of Eureka Online CBT Software, I focus on user-centric development. I thrive in creative environments, possess strong communication, organizational, and leadership skills, and am a dedicated, out-of-the-box thinker.
+I am an innovative software engineer, founder, and a digital entrepreneur with 7 years of experience and a passion for building impactful software products that solve academic and logistic problems in the community. I have successfully built two products. As the co-founder and VP of Engineering at Trafull and the founder of Eureka Online CBT Software, I focus on user-centric development. I thrive in creative environments, possess strong communication, organizational, and leadership skills, and am a dedicated, out-of-the-box thinker.
 
 ### Technical Skills
 * Programming Languages: Solidity, JAVA, PHP, Node & Dart.
