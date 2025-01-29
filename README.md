@@ -11,8 +11,8 @@
 I am an innovative software engineer, founder, and a digital entrepreneur with 7 years of experience and a passion for building impactful software products that solve academic and logistic problems in the community. I have successfully built two products. As the co-founder and VP of Engineering at Trafull and the founder of Eureka Online CBT Software, I focus on user-centric development. I thrive in creative environments, possess strong communication, organizational, and leadership skills, and am a dedicated, out-of-the-box thinker.
 
 ### Technical Skills
-* Programming Languages: Solidity, JAVA, PHP, Node & Dart.
-* Backend Development: SpringBoot, Laravel, NestJS.
+* Programming Languages: Solidity, JAVA, PHP, Typscript & Dart.
+* Backend Development: SpringBoot, Laravel, Expressjs.
 * Mobile App Development: Flutter & ReactNative.
 * Data Storage & Processing: MongoDB, MySQL, PostgreSQL, Elasticsearch, Redis, RabbitMQ.
 * Cloud Infrastructure: AWS, Digital Ocean, Docker, GCP
