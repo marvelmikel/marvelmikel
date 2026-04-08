@@ -8,7 +8,13 @@
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/airondev)
 
 ### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px" width="20px"></img> About Me
-I am an innovative software engineer, founder, and a digital entrepreneur with 15 years of experience and a passion for building impactful software products that solve academic and logistic problems in the community. I have successfully built two products. As the co-founder and VP of Engineering at Trafull and the founder of Eureka Online CBT Software, I focus on user-centric development. I thrive in creative environments, possess strong communication, organizational, and leadership skills, and am a dedicated, out-of-the-box thinker.
+I am a highly experienced software engineer, founder, and digital entrepreneur with over 10 years of hands-on experience building scalable, high-performance systems. My work spans distributed systems, fintech infrastructure, and blockchain-based applications, with a strong focus on delivering reliable, production-grade solutions.
+
+As the co-founder and VP of Engineering at Trafull and the founder of Eureka Online CBT Software, I have led the design and development of complex platforms, driving architecture decisions, mentoring engineering teams, and delivering user-centric products at scale.
+
+I bring strong expertise in backend engineering using TypeScript and modern frameworks, with practical experience in blockchain systems, wallet infrastructure, and cross-chain integrations. My background includes designing transaction systems, optimizing performance, and building resilient APIs for financial applications.
+
+I thrive in fast-paced, innovative environments where I can combine deep technical problem-solving with strategic thinking. I am particularly interested in intent-based systems, decentralized infrastructure, and the intersection of AI and Web3, where I can contribute to building next-generation execution frameworks.
 
 ### Technical Skills
 * Programming Languages: Solidity, JAVA, PHP, Typscript & Dart.
