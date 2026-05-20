@@ -8,13 +8,13 @@
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/airondev)
 
 ### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px" width="20px"></img> About Me
-I am a highly experienced senior fullstack software engineer, founder, and digital entrepreneur with over 10 years of hands-on experience building scalable, high-performance systems. My work spans distributed systems, fintech infrastructure, and blockchain-based applications, with a strong focus on delivering reliable, production-grade solutions.
+Founding-level Senior Software Engineer, AI Infrastructure Engineer, and CTO with 9+ years of experience building scalable fintech, blockchain, cloud infrastructure, and AI-powered systems across startups and enterprise-grade environments.
 
-As the co-founder and VP of Engineering at Trafull and the founder of Eureka Online CBT Software, I have led the design and development of complex platforms, driving architecture decisions, mentoring engineering teams, and delivering user-centric products at scale.
+Currently serving as the CTO of Axstron, a payment infrastructure company building Fincruse, a stablecoin-powered financial platform focused on modern payment infrastructure, digital asset transactions, and scalable financial systems.
 
-I bring strong expertise in backend engineering using TypeScript and modern frameworks, with practical experience in blockchain systems, wallet infrastructure, and cross-chain integrations. My background includes designing transaction systems, optimizing performance, and building resilient APIs for financial applications.
+Strong hands-on expertise across Laravel, Rust, Python, Golang, Java, TypeScript, Docker, CI/CD systems, cloud infrastructure, blockchain protocols, AI-native workflows, and distributed systems engineering.
 
-I thrive in fast-paced, innovative environments where I can combine deep technical problem-solving with strategic thinking. I am particularly interested in intent-based systems, decentralized infrastructure, and the intersection of AI and Web3, where I can contribute to building next-generation execution frameworks.
+Experienced architecting scalable backend systems, AI-assisted deployment platforms, developer tooling, enterprise-grade Web3 infrastructure, and multi-tenant SaaS platforms.
 
 ### Technical Skills
 * Programming Languages: Solidity,Go, Rust JAVA, PHP, Typscript & Dart.
