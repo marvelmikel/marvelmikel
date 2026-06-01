@@ -8,7 +8,7 @@
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/airondev)
 
 ### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height="30px" width="20px"></img> About Me
-Founding-level Senior Software Engineer, AI Infrastructure Engineer, and CTO with 9+ years of experience building scalable fintech, blockchain, cloud infrastructure, and AI-powered systems across startups and enterprise-grade environments.
+Founding-level Senior Software Engineer, AI Infrastructure Engineer, and CTO with 6+ years of experience building scalable fintech, blockchain, cloud infrastructure, and AI-powered systems across startups and enterprise-grade environments.
 
 Currently serving as the CTO of Axstron, a payment infrastructure company building Fincruse, a stablecoin-powered financial platform focused on modern payment infrastructure, digital asset transactions, and scalable financial systems.
 
