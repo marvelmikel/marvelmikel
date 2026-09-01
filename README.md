@@ -17,8 +17,8 @@ Strong hands-on expertise across Laravel, Rust, Python, Golang, Java, TypeScript
 Experienced architecting scalable backend systems, AI-assisted deployment platforms, developer tooling, enterprise-grade Web3 infrastructure, and multi-tenant SaaS platforms.
 
 ### Technical Skills
-* Programming Languages: Solidity,Go, Rust JAVA, PHP, Typscript & Dart.
-* Backend Development: SpringBoot, Laravel, Expressjs.
+* Programming Languages: Python,Solidity,Go, Rust JAVA, PHP, Typscript & Dart.
+* Backend Development: FastAPI,SpringBoot, Laravel, Expressjs.
 * Mobile App Development: Flutter & ReactNative.
 * Data Storage & Processing: MongoDB, MySQL, PostgreSQL, Elasticsearch, Redis, RabbitMQ.
 * Cloud Infrastructure: AWS, Digital Ocean, Docker, GCP
